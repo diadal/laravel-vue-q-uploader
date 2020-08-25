@@ -1,4 +1,4 @@
-# laravel-vue-q-uploader
+# Laravel-Vue-QUploader
 fast and easiest way to upload files in [Laravel](https://laravel.com/) [Vue](https://vuejs.org/) app using [quasar-framework](https://quasar.dev/)  QUploader
 
 Create [Vue](https://vuejs.org/) component 

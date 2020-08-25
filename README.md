@@ -1,7 +1,7 @@
 # laravel-vue-q-uploader
-fast and easiest way to upload files in Laravel Vue app using quasar-framework  QUploader
+fast and easiest way to upload files in [Laravel](https://laravel.com/) [Vue](https://vuejs.org/) app using [quasar-framework](https://quasar.dev/)  QUploader
 
-Create Vue component 
+Create [Vue](https://vuejs.org/) component 
 ```[vue]
 
 <template>
@@ -39,14 +39,14 @@ export default defineComponent({
 })
 </script>
 ```
-Laravel route in my case i will API
+[Laravel](https://laravel.com/) route in my case i will API
 ```[php]
 
 Route::post('upload-image', 'ImageController@ImageUpload');
 
 ```
 
-Laravel controller 
+[Laravel](https://laravel.com/) controller 
 
 ```[php]
 
